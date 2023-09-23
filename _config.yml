@@ -1,3 +1,11 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: github-light
+
+social-network-links:
+  email: "alevork@gmail.com"
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  github: https://github.com/VorkhlikAS
+  telegram: https://t.me/VorhlikAS
+
 title: VorkhlikAS's homepage
 description: My personal projects!
