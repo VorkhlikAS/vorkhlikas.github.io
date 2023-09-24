@@ -27,7 +27,7 @@ The “Kanban” game-simulator is based on the board games of the same name whe
 [https://www.youtube.com/watch?v=GIWYgI0drKo](https://www.youtube.com/watch?v=GIWYgI0drKo)
 
 ---
-
+<details markdown='1'><summary>Аналитический сервис</summary>  
 # Аналитический сервис
 
 [analiticheskiy_servis_-_otchet.pdf](%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%20b0f4af2a58a94742be08df764fff4d1e/analiticheskiy_servis_-_otchet.pdf)
@@ -39,7 +39,7 @@ The “Kanban” game-simulator is based on the board games of the same name whe
 An analytical service for monitoring the load of IOT (Internet of things) server. This service calculates  client server load metrics and load shares of different types of businesses.
 
 ![Снимок экрана 2022-08-29 010820.png](%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%20b0f4af2a58a94742be08df764fff4d1e/%25D0%25A1%25D0%25BD%25D0%25B8%25D0%25BC%25D0%25BE%25D0%25BA_%25D1%258D%25D0%25BA%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B0_2022-08-29_010820.png)
-
+</details>
 ---
 
 # Мессенджер
